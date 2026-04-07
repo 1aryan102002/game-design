@@ -17,11 +17,18 @@ npm run dev
 
 ## Publish to GitHub Pages
 
-1. Create a GitHub repository.
-2. Push this project to the `main` branch.
-3. In GitHub, go to **Settings → Pages**.
-4. Under **Build and deployment**, select **GitHub Actions**.
-5. Every push to `main` will deploy automatically.
+### Option A (Recommended): Deploy the static `/docs` site
+
+1. In GitHub, go to **Settings → Pages**.
+2. Under **Build and deployment**, choose **Deploy from a branch**.
+3. Select **Branch: `main`** and **Folder: `/docs`**.
+4. Save, then wait for GitHub to publish.
+
+### Option B: Deploy the Vite build (GitHub Actions)
+
+1. In GitHub, go to **Settings → Pages**.
+2. Under **Build and deployment**, select **GitHub Actions**.
+3. Every push to `main` will deploy automatically.
 
 Notes:
 - Routes use `HashRouter` so refresh/direct links work on GitHub Pages.

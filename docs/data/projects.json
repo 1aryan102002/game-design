@@ -1,0 +1,136 @@
+[
+  {
+    "id": "mechanics-in-motion-moving-platform",
+    "title": "Mechanics in Motion — Moving Platform",
+    "roles": ["Game Level Designer"],
+    "tools": ["Unreal Engine 5", "Grey-boxing", "Visual Scripting", "C++", "Draw.io", "VS Code"],
+    "summary": "Compact timing-focused level introducing dynamic moving platforms and navigation flow.",
+    "responsibilities": [
+      "Created the full level layout using grey-box modeling.",
+      "Designed and implemented moving platform mechanics.",
+      "Adjusted timing to balance challenge and readability.",
+      "Placed checkpoints and fallback zones for accessibility."
+    ],
+    "outcomes": [
+      "Strengthened understanding of mechanical level design where timing meets player behavior.",
+      "Built a repeatable iteration approach focused on player experience."
+    ],
+    "tags": ["Level Design", "Unreal", "Traversal", "Timing"],
+    "featured": true,
+    "links": [{ "label": "Project Docs (Canva)", "url": "https://l1evel-designer.my.canva.site/level-designer" }],
+    "writeup": "1. Mechanics in Motion – Moving Platform\nObjective:\n Design a compact level focusing on timing, movement, and player navigation using eight phase transform and coordination system. The goal was to introduce the player to dynamic level elements while maintaining intuitive flow and challenge escalation.\n2. Tools Used\nEngine: Unreal Engine 5\nDesign Method: White-boxing, visual scripting, unreal engine built-in library.\nTools: Visual Studio Code, Draw.io (for planning), C++\n3 . My Role\nCreated the entire level layout using grey-box modeling\nDesigned and implemented all moving platform mechanics\nHandled timing adjustments to balance difficulty\nPlaced checkpoints and fallback zones for accessibility\n4. Final Thoughts\nThis project helped me solidify my understanding of mechanical level design, especially where movement and timing intersect with player behavior. It’s a foundational piece that reflects my approach to learning by iteration and focusing on the player experience.",
+    "source": { "label": "Original Canva page", "url": "https://l1evel-designer.my.canva.site/level-designer" }
+  },
+  {
+    "id": "toon-tanks",
+    "title": "Toon Tanks — Game Development Project",
+    "roles": ["Game Developer"],
+    "tools": ["Unreal Engine", "C++"],
+    "summary": "Tank combat prototype with shooting, health systems, and turret AI.",
+    "responsibilities": [
+      "Developed player locomotion, shooting, and health systems.",
+      "Implemented damage handling for player and enemies.",
+      "Integrated projectile behavior and third-person camera controls.",
+      "Built enemy turret targeting using line traces and added sound effects."
+    ],
+    "outcomes": ["Improved implementation skills for core gameplay loops and feedback."],
+    "tags": ["Game Dev", "Unreal", "Combat"],
+    "featured": true,
+    "links": [{ "label": "Project Docs (Canva)", "url": "https://l1evel-designer.my.canva.site/level-designer" }],
+    "writeup": "2. Toon Tanks – Game Development Project\nDeveloped controllable player mechanics including locomotion, shooting, and health systems.\nImplemented damage system for both player and enemies, handling health reduction based on impacts.\nIntegrated projectile trajectory and third-person camera controls.\nDesigned enemy turrets with line trace mechanics to target tanks within range and sound effects for immersion",
+    "source": { "label": "Original Canva page", "url": "https://l1evel-designer.my.canva.site/level-designer" }
+  },
+  {
+    "id": "treasure-hunter",
+    "title": "Treasure Hunter — 3D Dungeon Exploration",
+    "roles": ["Game Level Designer", "Game Developer"],
+    "tools": ["Unreal Engine", "Epic Marketplace Assets"],
+    "summary": "3D dungeon environment with exploration, puzzles, and atmosphere-driven layout.",
+    "responsibilities": [
+      "Created a 3D dungeon environment with multiple sub-levels for exploration and puzzles.",
+      "Designed architectural elements (bones, prisons, channel gates, lamps) to enhance mood.",
+      "Implemented first-person interaction for puzzle-solving.",
+      "Added moving platforms and optimized level transitions.",
+      "Used lighting to guide players and strengthen atmosphere."
+    ],
+    "outcomes": ["Strengthened environment composition and mood-setting through lighting and layout."],
+    "tags": ["Level Design", "Unreal", "Environment", "Puzzles"],
+    "featured": true,
+    "links": [{ "label": "Project Docs (Canva)", "url": "https://l1evel-designer.my.canva.site/level-designer" }],
+    "writeup": "3. Treasure Hunter – Game Development Project\nCreated a 3D dungeon environment using Epic Marketplace assets, featuring multiple sub-levels focused on exploration and puzzle-solving.\nDesigned intricate architectural elements such as bones, prisons, channel gates, and lamps to enhance atmosphere.\nImplemented first-person character mechanics for interaction with objects and puzzle-solving.\nIntegrated moving platforms and optimized level transitions for seamless gameplay.\nApplied lighting techniques to guide players and enhance the mood.\nFocused on complex environmental design, enhancing player experience through problem-solving.",
+    "source": { "label": "Original Canva page", "url": "https://l1evel-designer.my.canva.site/level-designer" }
+  },
+  {
+    "id": "scifi-third-person-shooter",
+    "title": "Sci‑Fi Third‑Person Shooter",
+    "roles": ["Game Developer"],
+    "tools": ["Unreal Engine", "Behavior Trees", "Navigation Mesh"],
+    "summary": "Third-person shooter prototype featuring AI behavior, locomotion, and combat feedback.",
+    "responsibilities": [
+      "Implemented AI pathfinding with NavMesh, behavior trees, and blackboards.",
+      "Integrated animation systems for locomotion and death animations.",
+      "Built core mechanics: health bar, damage systems, firing, and crosshair.",
+      "Added VFX (muzzle flashes, bullet impacts) for combat clarity.",
+      "Designed AI behaviors: hearing, patrolling, and shooting.",
+      "Implemented win/lose screens and dynamic combat scenarios."
+    ],
+    "outcomes": ["Improved understanding of AI decision-making and combat readability."],
+    "tags": ["Game Dev", "Unreal", "AI", "Combat"],
+    "links": [{ "label": "Project Docs (Canva)", "url": "https://l1evel-designer.my.canva.site/level-designer" }],
+    "writeup": "4. Sci-Fi Third-Person Shooter – Game Development Project\nDeveloped a third-person shooter with a sci-fi theme, focusing on intelligent enemy AI and smooth locomotion.\nImplemented AI pathfinding using navigation mesh, behavior trees, and blackboards for decision-making.\nIntegrated animation systems for player and enemy locomotion, including death animations.\nDeveloped core mechanics: health bar, damage systems, firing, and crosshair for a precise shooting experience.\nCreated visual effects (bullets, muzzle flashes, impact flashes) to enhance combat immersion.\nDesigned AI behaviors such as hearing the player, patrolling, and shooting.\nImplemented win/lose screens and dynamic combat scenarios based on player actions.",
+    "source": { "label": "Original Canva page", "url": "https://l1evel-designer.my.canva.site/level-designer" }
+  },
+  {
+    "id": "udemy-urp-open-world",
+    "title": "Udemy (URP) — Open‑World 3D Environment",
+    "roles": ["Game Level Designer"],
+    "tools": ["Unity", "URP", "Quixel Bridge"],
+    "summary": "Ongoing open-world sub-level with varied terrain, biomes, and lived-in interiors.",
+    "responsibilities": [
+      "Developing an open-world sub-level using Quixel Bridge.",
+      "Creating varied terrains (streets, gardens, forests, mountains, city zones).",
+      "Designing buildings with varied interiors to improve realism and world believability."
+    ],
+    "outcomes": ["Expanded environment art integration and large-scale space planning."],
+    "tags": ["Level Design", "Unity", "Open World"],
+    "links": [{ "label": "Project Docs (Canva)", "url": "https://l1evel-designer.my.canva.site/level-designer" }],
+    "writeup": "5. udemy(urp)Project - Open-World 3D Environment\nCurrently developing a sub level of an  open-world environment using Quixel Bridge.\nCreating varied terrains, including streets, gardens, forests, mountains, and a city to build an immersive world.\nfollowing buildings have varied interriors giving it life and more realistic",
+    "source": { "label": "Original Canva page", "url": "https://l1evel-designer.my.canva.site/level-designer" }
+  },
+  {
+    "id": "third-person-linear-semi-level",
+    "title": "Third‑Person Linear Semi Level (Unreal Engine 5.5)",
+    "roles": ["Game Level Designer"],
+    "tools": ["Unreal Engine 5.5"],
+    "summary": "Linear night-time city traversal level with phases and multi sub-level structure.",
+    "responsibilities": [
+      "Created a linear sub-level for a third-person game (Level 1).",
+      "Structured the experience into multiple sub-levels and four phases.",
+      "Designed night-time city traversal through buildings and terraces."
+    ],
+    "outcomes": ["Improved phase-based pacing and guided traversal through urban spaces."],
+    "tags": ["Level Design", "Unreal", "Traversal"],
+    "links": [{ "label": "Project Docs (Canva)", "url": "https://l1evel-designer.my.canva.site/level-designer" }],
+    "writeup": "6.third person linear semi level(unreal engine 5.5) - \n created a linear sub level of an third person game level 1 \ncontains several sub levels and four phases of the level.\nthe level contains an environment at night, city, traversing \nthrough buildings terrace.",
+    "source": { "label": "Original Canva page", "url": "https://l1evel-designer.my.canva.site/level-designer" }
+  },
+  {
+    "id": "battle-royale-map",
+    "title": "Battle Royale Map (500×550) — Unity",
+    "roles": ["Game Level Designer"],
+    "tools": ["Unity", "Terrain Tools", "Unity Asset Store", "Fab.com"],
+    "summary": "Large battle royale map featuring terrain variety, POIs, and vehicle-driven navigation.",
+    "responsibilities": [
+      "Sculpted terrain with mountains, cliffs, and flat roads.",
+      "Placed POIs including houses, guard rooms, bridges, factories, and power plants.",
+      "Used assets and props from Unity Asset Store and Fab.com.",
+      "Added cars and trucks to avoid overusing terrain obstacles and improve engagement."
+    ],
+    "outcomes": ["Improved understanding of large-scale multiplayer space planning and POI distribution."],
+    "tags": ["Level Design", "Unity", "Multiplayer", "Open World"],
+    "links": [{ "label": "Project Docs (Canva)", "url": "https://l1evel-designer.my.canva.site/level-designer" }],
+    "writeup": "Battle Royale Map -\nI have created a Battle Royale map of size 500x550 in Unity using various terrain sculpting tools. I have included mountains, cliffs, and flat roads.\nI have introduced various houses, guard rooms, bridges, factories, and power plants. I have taken my inspiration from various multiplayer titles like PUBG, Call of Duty, and Delta Force.\nI used the Unity Asset Store and Fab.com for assets and props, which are considerably fine to work with.\nUsing terrain as an obstacle would not meant do to every where so i put cars and trucks makes the map more engaging and lively.",
+    "source": { "label": "Original Canva page", "url": "https://l1evel-designer.my.canva.site/level-designer" }
+  }
+]
+

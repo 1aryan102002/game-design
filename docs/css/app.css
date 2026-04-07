@@ -1,0 +1,22 @@
+:root{
+  --bg:#0b1220;
+  --surface:#0f172a;
+  --border:rgba(148,163,184,.18);
+  --text:#e2e8f0;
+  --muted:#94a3b8;
+  --accent:#22d3ee;
+}
+
+html,body{height:100%}
+body{background:radial-gradient(900px circle at 10% 0%,rgba(34,211,238,.16),transparent 60%),var(--bg);color:var(--text)}
+
+.app-card{border:1px solid var(--border);background:rgba(15,23,42,.88);backdrop-filter:blur(8px)}
+.app-link{color:var(--muted)}
+.app-link:hover{color:var(--text)}
+.app-badge{border:1px solid var(--border);background:rgba(2,6,23,.35);color:var(--text)}
+.app-muted{color:var(--muted)}
+.app-btn{background:var(--accent);color:#001019}
+.app-btn:hover{filter:brightness(1.04)}
+.app-btn-secondary{border:1px solid var(--border);background:rgba(2,6,23,.2);color:var(--text)}
+.app-btn-secondary:hover{background:rgba(148,163,184,.08)}
+
