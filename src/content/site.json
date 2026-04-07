@@ -1,0 +1,13 @@
+{
+  "title": "Aryan Sharma | Game Tester & Game Level Designer",
+  "description": "Portfolio featuring game testing knowledge, level design work, and Unreal/Unity projects.",
+  "accentLabel": "Cyan",
+  "nav": [
+    { "label": "Home", "to": "/" },
+    { "label": "Projects", "to": "/projects" },
+    { "label": "About", "to": "/about" },
+    { "label": "Contact", "to": "/contact" }
+  ],
+  "footerNote": "Built with React + TypeScript. Content is editable via JSON files."
+}
+

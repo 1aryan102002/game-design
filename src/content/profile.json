@@ -1,0 +1,104 @@
+{
+  "name": "Aryan Sharma",
+  "avatar": "me.jpeg",
+  "roles": ["Game Tester", "Game Level Designer"],
+  "location": "UP, Noida 201307",
+  "phone": "7727937592",
+  "emails": ["nsaryan724@gmail.com", "aryansharma102003@gmail.com"],
+  "headline": "Game Tester & Game Level Designer (Unreal Engine / Unity)",
+  "summary": "Fresher with ~3 years of level design practice. Familiar with a wide range of game genres and player perspectives (FPS, TPS, 2D, world-building, strategy, action-adventure).",
+  "about": [
+    "I focus on player-first level flow: readable spaces, clear goals, and iteration based on play behavior.",
+    "As a game tester, I’m comfortable with structured testing workflows and terminology, including TRCs and XRs, and I’m familiar with devkits/test kits, Neighborhood, and Prospero.",
+    "I’m currently learning full‑stack Python development. In game development practice, I’ve worked with gameplay mechanics using C++ and C# and I’m familiar with version control."
+  ],
+  "socials": {
+    "github": "https://github.com/1aryan102002",
+    "linkedin": "https://www.linkedin.com/in/aryan-sharma-45885a359/",
+    "canvaProjects": "https://l1evel-designer.my.canva.site/level-designer"
+  },
+  "highlights": [
+    {
+      "title": "Level Design",
+      "value": "3+ years practice",
+      "description": "Grey-boxing, timing challenges, and traversal flow."
+    },
+    {
+      "title": "Engines",
+      "value": "Unreal Engine + Unity",
+      "description": "Blueprint/visual scripting and core gameplay systems."
+    },
+    {
+      "title": "Testing",
+      "value": "TRCs / XRs familiarity",
+      "description": "Structured testing workflows and platform compliance awareness."
+    },
+    {
+      "title": "Programming",
+      "value": "C++ / C# basics",
+      "description": "Gameplay mechanics + DSA fundamentals; learning full‑stack Python."
+    }
+  ],
+  "skills": [
+    {
+      "title": "Level Design",
+      "items": [
+        "White-boxing / Grey-boxing",
+        "Level flow and pacing",
+        "Traversal and timing challenges",
+        "Checkpoint and fallback design",
+        "World building and environment storytelling"
+      ]
+    },
+    {
+      "title": "Engines & Tools",
+      "items": [
+        "Unreal Engine 5",
+        "Unity",
+        "Visual scripting / Blueprints",
+        "Draw.io (planning)",
+        "Visual Studio Code"
+      ]
+    },
+    {
+      "title": "Game Testing",
+      "items": [
+        "Devkits and test kits (methodology familiarity)",
+        "Neighborhood and Prospero (familiarity)",
+        "TRCs and XRs (familiarity)",
+        "Genre and playstyle coverage (FPS/TPS/2D/strategy/etc.)"
+      ]
+    },
+    {
+      "title": "Programming",
+      "items": [
+        "C++ (game dev practice)",
+        "C# (game dev practice)",
+        "DSA and dynamic programming basics",
+        "Version control (Git)"
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "title": "B.Tech (Graduation)",
+      "org": "Rajasthan Technical University",
+      "location": "Rajasthan",
+      "period": "Completed",
+      "bullets": [
+        "Built fundamentals in engineering and problem-solving.",
+        "Continued parallel learning in level design and game development."
+      ]
+    },
+    {
+      "title": "Level Designer (Self-driven practice)",
+      "org": "Personal Projects",
+      "period": "~3 years",
+      "bullets": [
+        "Designed multiple levels and maps across Unreal Engine and Unity.",
+        "Iterated on pacing, readability, and player navigation through hands-on prototyping."
+      ]
+    }
+  ]
+}
+
